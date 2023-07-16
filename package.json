@@ -1,0 +1,9 @@
+{
+  "name": "Singleton",
+  "version": "1.0.0",
+  "scripts": {
+    "start": "nodemon singleton.ts"
+  },
+  "dependencies": {
+  }
+}
